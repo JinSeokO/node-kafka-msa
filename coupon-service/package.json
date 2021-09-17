@@ -1,0 +1,10 @@
+{
+  "name": "coupon-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jin",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.0.6"
+  }
+}
