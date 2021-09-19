@@ -2,3 +2,4 @@ coupon-service/node_modules/
 kafka-broker/node_modules/
 order-service/node_modules/
 payment-service/node_modules/
+node_modules/
