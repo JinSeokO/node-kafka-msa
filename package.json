@@ -1,0 +1,12 @@
+{
+  "name": "node-kafka-msa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jin <freejin4802@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
+}
